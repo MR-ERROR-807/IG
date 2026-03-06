@@ -5,8 +5,7 @@
 
 
 AUTHOR:
-<p align="center">
-MR.ERROR INSTAGRAM TOOL <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2> 
+<p align="center"> MR.ERROR INSTAGRAM TOOL <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2> 
 
 </br>
 <p align="center">
